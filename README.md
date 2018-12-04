@@ -5,9 +5,9 @@ jpaSummary
 
 	1、映射
 	
-		通过Customers和Orders实体类来映射多对一的关系
+		通过Customers和Orders实体类来映射一对多的关系
 		通过Teachers和Students实体类来映射多对多的关系
-		通过Managers和Departments实体类来映射一对一多的关系
+		通过Managers和Departments实体类来映射一对一的关系
 	
 	2、查询
 	
